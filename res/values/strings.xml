@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Yapu</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
-    <string name="dummy_button">Dummy Button</string>
-
+    <string name="app_name">YAPU</string>
+    <string name="welcome">Welcome to YAPU</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_post2_core_media">Send to Yapu</string>
+    <string name="title_activity_create_and_send_photo">Yapu</string>
+    <string name="enter_message">Enter a description here</string>
+    <string name="sendButton">Send to Yapu</string>
+    <string name="cancel">Cancel</string>
+    <string name="takePicture">Take Photo and Upload</string>
+    <string name="title_activity_main">YAPU</string>
+    <string name="cannot">Unavailable</string>
+    <string name="help">You can take a picture with your camera or just use the share button in the picture gallery to upload photos with YAPU.</string>
 </resources>
